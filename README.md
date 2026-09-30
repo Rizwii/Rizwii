@@ -25,21 +25,40 @@ My work sits at the intersection of applied artificial intelligence, distributed
 
 **Languages** &nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML_CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Frameworks & Tools** &nbsp;
-**Frameworks & Tools** &nbsp;
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Data & Analytics** &nbsp;
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Cleaning](https://img.shields.io/badge/DATA_CLEANING-555555?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/DATA_VALIDATION-555555?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/FEATURE_ENGINEERING-555555?style=for-the-badge)
 
 **Cloud & AI/ML** &nbsp;
 ![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/VERTEX_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/CLOUD_RUN-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firestore](https://img.shields.io/badge/FIRESTORE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_INTEGRATION-555555?style=for-the-badge)
 
-**Data & Analytics** &nbsp;
-![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Frameworks & Tools** &nbsp;
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![ZeroMQ](https://img.shields.io/badge/ZEROMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white)
+![Grafana](https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![Keil MDK](https://img.shields.io/badge/KEIL_MDK-555555?style=for-the-badge)
 
 ---
 
