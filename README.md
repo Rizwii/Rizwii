@@ -13,11 +13,11 @@
 
 ## 🚀 About Me
 
-I am a second-year Computer Engineering student at Universiti Teknologi PETRONAS with hands-on experience building end-to-end LLM integrations, predictive models, and real-time telemetry systems. From architecting multi-microservice digital twins to streaming IoT sensor diagnostics, I focus on delivering robust, production-grade engineering solutions.
+I am a third-year Computer Engineering student at Universiti Teknologi PETRONAS with hands-on experience building end-to-end LLM integrations, predictive models, and real-time telemetry systems. From architecting multi-microservice digital twins to streaming IoT sensor diagnostics, I focus on delivering robust, production-grade engineering solutions.
 
 My work sits at the intersection of applied artificial intelligence, distributed data pipelines, and embedded IoT systems, paired with a track record of agile collaboration in hackathons and developer communities.
 
-> *"Design thoughtfully, build robustly, iterate constantly."*
+> *"Abstract complexity. Engineer for resilience. Deploy with conviction."*
 
 ---
 
@@ -64,9 +64,9 @@ My work sits at the intersection of applied artificial intelligence, distributed
 
 ## 🏆 What I'm Looking For
 
-- 💼 A high-impact 7-month internship where I can build reliable distributed systems, optimize data pipelines, and ship production code alongside great engineers.
+- 💼 Looking for a 7-month internship in software engineering, AI/ML, or data engineering to build real-world, production-grade systems
 - 🤝 Ambitious hackathon squads who thrive on fast-paced engineering sprints to prototype bold, real-world hardware + software systems.
-- 🔭 Open-source moonshots & technical deep dives, from custom IoT firmware to LLM agents and high-throughput telemetry architectures.
+- 🔭 Open-source collabs and side projects in IoT, LLM agents, and telemetry.
 
 ---
 
@@ -79,4 +79,4 @@ I am always open to discussing technical projects, engineering opportunities, or
   <a href="mailto:rizwishaan47@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">⚡ <i>Always building. Always learning. Always shipping.</i></p>
+<p align="center">⚡ <i>Learn fast. Build smart. Ship often.</i></p>
