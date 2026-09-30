@@ -5,7 +5,7 @@
 <p align="center"><i>Architecting real-time telemetry, intelligent pipelines, and robust production systems.</i></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rizwishaan"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Rizwii"><img src="https://img.shields.io/badge/GITHUB-Rizwii-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
